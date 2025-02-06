@@ -16,15 +16,15 @@ The model uses advanced machine learning algorithms to analyze various features 
 ## Solution 
 A machine learning-based churn prediction model is trained on historical customer data, including:
 
-Subscription length
+* Subscription length
 
-Watch time per session
+* Watch time per session
 
-Customer complaints or feedback
+* Customer complaints or feedback
 
-Frequency of login activity
+* Frequency of login activity
 
-Payment history and billing issues
+* Payment history and billing issues
 
 By analyzing this data, the model predicts which customers are most likely to churn within the next month. The business can then target these users with personalized marketing campaigns, loyalty offers, or improved customer support to prevent churn.
 
@@ -38,7 +38,7 @@ Better User Experience: Analyzing why customers leave helps improve content reco
 ## Are We Using Promptrepo ?
 **NO** ,We have developed and train our own machine learning model
 
-## What kind of AI model using it? (if applicable, add the list below)
+## What kind of AI model using it? 
 we are using **Classification AI model**
 
 Churn prediction is a binary classification problem where the model predicts whether a customer will churn (1) or not churn (0) based on historical data.
