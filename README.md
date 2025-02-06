@@ -52,6 +52,8 @@ https://churn-rate-predictor.onrender.com/
 
 **Password** : password123
 
+***The website may take upto 1 minute to load the site***
+
 ## Technologies Stack  
 - Python
 - HTML
