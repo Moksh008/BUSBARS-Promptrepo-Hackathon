@@ -64,6 +64,9 @@ https://churn-rate-predictor.onrender.com/
 ![image](https://github.com/user-attachments/assets/b30d4444-dc49-40a3-9de2-6325d0b3280b)
 ![image](https://github.com/user-attachments/assets/02f6c58c-64f6-4109-a531-1349d1a3f02e)
 ![image](https://github.com/user-attachments/assets/9b4c6574-2050-40f4-98c1-b7f2b1266b36)
+![image](https://github.com/user-attachments/assets/4d46e7b1-141c-47eb-9297-7049b0ca6c16)
+![image](https://github.com/user-attachments/assets/790d172f-9730-4178-b71c-15ea3842908a)
+
 
 
 
